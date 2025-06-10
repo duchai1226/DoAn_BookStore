@@ -222,7 +222,7 @@ if (!$order) {
                     <a href="/DoAn_BookStore/" class="btn btn-primary me-3">
                         <i class="fas fa-home"></i> Về trang chủ
                     </a>
-                    <a href="/DoAn_BookStore/view/user/orders.php" class="btn btn-outline-secondary">
+                    <a href="/DoAn_BookStore/view/orders/order.php" class="btn btn-outline-secondary">
                         <i class="fas fa-list"></i> Xem đơn hàng của tôi
                     </a>
                 </div>
